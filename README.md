@@ -15,17 +15,6 @@
 ## 📂 Proyectos destacados
 
 - 🛒 Sistema de Gestión de Productos
-- 🎓 Sistema de Notas Universitarias
 - 🤖 PocketFlow Assistant
 - 📦 Desarrollo de aplicaciones con bases de datos
 
-## 🎯 Actualmente aprendiendo
-
-- Arquitectura de software
-- APIs REST
-- Desarrollo Full Stack
-- Inteligencia Artificial aplicada
-
-## 📫 Contacto
-
-- GitHub: https://github.com/Milton421
